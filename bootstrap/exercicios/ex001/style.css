@@ -1,0 +1,22 @@
+:root {
+    --cor-primaria: #000;
+    --cor-secundaria: #fff;
+}
+
+body {
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.container2 {
+    background-color: var(--cor-primaria);
+    height: 50%;
+    width: 50%;
+}
+
+.conteudo {
+    background-color: red;
+    height: 40%;
+    width: 50%;
+}
